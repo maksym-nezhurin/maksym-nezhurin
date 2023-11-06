@@ -5,6 +5,8 @@ I am currently working at SoftServe and enjoying the opportunity to be part of a
 
 - 🌱 I’m currently learning GatsbyJS and NextJS
 
+💬 [View My LinkedIn →](https://www.linkedin.com/in/maksym-nezhurin-7602a959/)
+
 <!--
 **maksym-nezhurin/maksym-nezhurin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
