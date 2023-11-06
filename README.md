@@ -1,4 +1,9 @@
 ### Hi there 👋
+## I am Software Engineer 
+
+I am currently working at SoftServe and enjoying the opportunity to be part of a huge project with lots of room for growth. -
+
+- 🌱 I’m currently learning GatsbyJS and NextJS
 
 <!--
 **maksym-nezhurin/maksym-nezhurin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
