@@ -8,8 +8,6 @@ I am adept at navigating the dynamic landscape of web development, ensuring that
 
 I am currently working at SoftServe and enjoying the opportunity to be part of a huge project with lots of room for growth. -
 
-- 🌱 I’m currently learning Typescript and NextJS
-
 💬 [View My LinkedIn →](https://www.linkedin.com/in/maksym-nezhurin-7602a959/)
 
 <!--
