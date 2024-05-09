@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## I am a seasoned software engineer with over 8 years of extensive expertise in web development
-I am specializing in JavaScript, ReactJS, NodeJS, and PHP technologies. Throughout my career, I have delivered a multitude of successful projects, ranging from small-scale initiatives to large and complex endeavors.
+I specialize in JavaScript, ReactJS, and NodeJS technologies. Throughout my career, I have delivered a multitude of successful projects, ranging from small-scale initiatives to large and complex endeavors.
 
 My proficiency extends beyond mere coding; I derive immense satisfaction from working with data, leveraging my skills to transform and manipulate it in diverse ways. This enables me to craft compelling presentations that resonate effectively with end users. My commitment to excellence, coupled with a passion for innovation, has consistently driven the success of the projects I've been involved in.
 
@@ -15,8 +15,8 @@ I am currently working at SoftServe and enjoying the opportunity to be part of a
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on improving TypeScript and NextJS knowledge.
+- 🌱 I’m currently learning NextJS, Laravel.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
