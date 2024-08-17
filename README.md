@@ -5,8 +5,6 @@ I specialize in JavaScript, ReactJS, and NodeJS technologies.
 My proficiency extends beyond mere coding; I derive immense satisfaction from working with data, leveraging my skills to transform and manipulate it in diverse ways. This enables me to craft compelling presentations that resonate effectively with end users. My commitment to excellence, coupled with a passion for innovation, has consistently driven the success of the projects I've been involved in.
 
 
-💬 [View My LinkedIn →](https://www.linkedin.com/in/maksym-nezhurin-7602a959/)
-
 <!--
 **maksym-nezhurin/maksym-nezhurin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
