@@ -2,7 +2,8 @@
 ## I am a seasoned software engineer with over 8 years of extensive expertise in web development
 I specialize in JavaScript, ReactJS, and NodeJS technologies.
 
-My proficiency extends beyond mere coding; I derive immense satisfaction from working with data, leveraging my skills to transform and manipulate it in diverse ways. This enables me to craft compelling presentations that resonate effectively with end users. My commitment to excellence, coupled with a passion for innovation, has consistently driven the success of the projects I've been involved in.
+My proficiency extends beyond mere coding; I derive immense satisfaction from working with data, leveraging my skills to transform and manipulate it in diverse ways. 
+My commitment to excellence, coupled with a passion for innovation, has consistently driven the success of the projects I've been involved in.
 
 
 <!--
